@@ -15,3 +15,4 @@ note:
 5.use "git reset --hard HEAD^" to back to the last distribution
 	(the number of ^s represents the nth from the bottom)
 6.HEAD point to current distribution
+7.if not add,then won't commit

@@ -16,3 +16,5 @@ note:
 	(the number of ^s represents the nth from the bottom)
 6.HEAD point to current distribution
 7.if not add,then won't commit
+
+8.git checkout -b dev  = git brach dev + git checkout dev ,this is dev branch
