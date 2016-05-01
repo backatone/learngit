@@ -21,3 +21,4 @@ note:
 9.then git merge and push to remote.
 
 10.git merge with no-ff will retain the branch's commit information.
+	use git merge --no-ff -m "message" dev
