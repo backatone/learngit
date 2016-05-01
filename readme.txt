@@ -11,4 +11,5 @@ note:
    <	status of this folder/repository ,
    <	"git diff" to see what has been changed,
    <	"git log [--pretty=oneline]" to know the three lastest changes. 
-	
+5.use "git reset --hard HEAD^" to back to the last distribution
+	(the number of ^s represents the nth from the bottom)
