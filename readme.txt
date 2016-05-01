@@ -19,3 +19,5 @@ note:
 
 8.git checkout -b dev  = git brach dev + git checkout dev ,this is dev branch
 9.then git merge and push to remote.
+
+10.git merge with no-ff will retain the branch's commit information.
