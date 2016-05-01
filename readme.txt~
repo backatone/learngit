@@ -14,3 +14,4 @@ note:
    <	"git log [--pretty=oneline]" to know the three lastest changes. 
 5.use "git reset --hard HEAD^" to back to the last distribution
 	(the number of ^s represents the nth from the bottom)
+6.HEAD point to current distribution
