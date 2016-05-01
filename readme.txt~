@@ -1,6 +1,7 @@
 starting to learn git
 git is a distributed version control system
 git is free software distributed under the GPL
+git has a mutable index called stage
 
 note:
 1.mkdir a folder or choose anyone and cd into it
